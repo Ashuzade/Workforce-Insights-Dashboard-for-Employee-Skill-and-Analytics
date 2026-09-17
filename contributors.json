@@ -21,7 +21,7 @@
       "contact": "pratyush2003sarkar@gmail.com",
       "course": "B.Tech CSE",
       "college": "University of Engineering and Management",
-      "address": "Kolkata,West Bengal",
+      "address": "Kolkata, West Bengal",
       "github_username": "Pratyush562003"
     },
     {
@@ -53,14 +53,16 @@
       "contact": "yakaanil2006@gmail.com",
       "course": "B.Tech CSE(AI&ML)",
       "college": "Anil Neerukonda Institute of Technology and Sciences",
-      "address": "Visakhapatnam,Andhra Pradesh",
+      "address": "Visakhapatnam, Andhra Pradesh",
       "github_username": "Yakaanil2006"
     },
     {
-     "name": "Tetali Thanvika",
-     "contact":"thanvikathanvi02@gmail.com",
-      "course": " B.Tech IOT",
-      "college":" Seshadri Rao Gudlavalleru Engineering College",
-      "address": "Tanuku , Andhra Pradesh",
+      "name": "Tetali Thanvika",
+      "contact": "thanvikathanvi02@gmail.com",
+      "course": "B.Tech IOT",
+      "college": "Seshadri Rao Gudlavalleru Engineering College",
+      "address": "Tanuku, Andhra Pradesh",
       "github_username": "thanvikathanvi02"
-    } 
+    }
+  ]
+}
