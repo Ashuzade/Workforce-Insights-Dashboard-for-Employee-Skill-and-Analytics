@@ -80,24 +80,36 @@ The repository is organized as an end-to-end workforce intelligence and RAG plat
 
 ```text
 Workforce-Insights-Dashboard-for-Employee-Skill-and-Analytics/
+├── .github/workflows/               # GitHub Actions workflows
 ├── raw-DATASET.csv                  # Uncleaned employee data sourced from Kaggle
-├── frontend/                        # Streamlit RAG platform frontend
-│   ├── app.py                        # Application entry point
-│   ├── services/                     # Backend/API integration services
-│   ├── ui_pages/                     # Dashboard, assistant, admin, and data pages
-│   └── utils/                        # Session and shared frontend utilities
-├── backend/                         # RAG platform backend and API services
-│   ├── app/                          # FastAPI application, routers, schemas, and services
-│   ├── migrations/                   # Database migration configuration and revisions
-│   └── scripts/                      # Backend setup and administration scripts
+├── dashboard.pbix                   # Power BI dashboard
+├── Project Report.pdf               # Complete project report
+├── Presenttion PPT.pptx             # Project presentation deck
+├── Deployment & Setup Guide.md      # Local deployment and setup instructions
+├── backend/                         # FastAPI backend and RAG services
+│   ├── app/                         # API, core logic, models, routers, schemas, and services
+│   ├── migrations/                  # Database migration configuration and revisions
+│   ├── scripts/                     # Backend setup and administration scripts
+│   ├── .env.example                 # Backend environment variable template
+│   └── requirements.txt             # Backend dependencies
+├── frontend/                        # Streamlit workforce insights dashboard
+│   ├── app.py                       # Application entry point
+│   ├── services/                    # Backend/API integration services
+│   ├── ui_pages/                    # Dashboard, assistant, admin, and data pages
+│   ├── utils/                       # Session and shared frontend utilities
+│   ├── .streamlit/                  # Streamlit configuration
+│   └── requirements.txt             # Frontend dependencies
 ├── Data_Cleaning/
-│   ├── Project Report.pdf            # Complete project report
-│   ├── CleanedDataset.csv            # Dataset after the data-cleaning process
-│   ├── Data Integration.ipynb        # Data integration workflow notebook
-│   ├── Data_Cleaning_EDA.ipynb       # Data cleaning and exploratory data analysis notebook
-│   ├── Presenttion PPT.pptx          # Project presentation deck
-│   └── Images/                       # EDA charts and key findings from Google Colab
+│   ├── CleanedDataset.csv           # Dataset after the data-cleaning process
+│   ├── Data Integration.ipynb       # Data integration workflow notebook
+│   ├── Data_Cleaning_EDA_ML.ipynb   # Data cleaning, EDA, and ML notebook
+│   └── Images/                      # EDA charts and key findings
+├── Documents/                       # Project templates and testing documents
+│   ├── Agile_Template_v0.2.xlsx
+│   ├── Defect_Tracker Template_v0.2.xlsx
+│   └── Unit_Test_Plan_v0.1.xlsx
 ├── scripts/                         # Repository maintenance and automation scripts
+├── contributors.json                # Contributor manifest
 └── README.md                        # Project documentation
 ```
 
