@@ -211,17 +211,17 @@ The current contributor manifest is maintained in [contributors.json](contributo
 The contributor roster is sourced from [contributors.json](contributors.json) and is updated automatically by the GitHub pipeline.
 
 <!-- CONTRIBUTORS:START -->
-| Avatar | Name | Contact | Course | College | Address | GitHub Username |
-| --- | --- | --- | --- | --- | --- | --- |
-| <img src="https://github.com/Saurabhtbj1201.png?size=72" width="48" height="48" alt="Saurabh Kumar avatar" /> | Saurabh Kumar | contact@gu-saurabh.site | BCA | Galgotias University | Greater Noida, UP | [Saurabhtbj1201](https://github.com/Saurabhtbj1201) |
-| <img src="https://github.com/Ashuzade.png?size=72" width="48" height="48" alt="Aishwarya Zade avatar" /> | Aishwarya Zade | aishwaryazade2002@gmail.com | BTech | LSPGCOE Ratnagiri | Gadchiroli, Maharashtra | [Ashuzade](https://github.com/Ashuzade) |
-| <img src="https://github.com/Pratyush562003.png?size=72" width="48" height="48" alt="Pratyush Sarkar avatar" /> | Pratyush Sarkar | pratyush2003sarkar@gmail.com | B.Tech CSE | University of Engineering and Management | Kolkata, West Bengal | [Pratyush562003](https://github.com/Pratyush562003) |
-| <img src="https://github.com/Sanjivani0101.png?size=72" width="48" height="48" alt="Sanjivani Gurav avatar" /> | Sanjivani Gurav | sanjivanigurav106@gmail.com | Msc | Vivekanand College, Kolhapur | Pune, Maharashtra | [Sanjivani0101](https://github.com/Sanjivani0101) |
-| <img src="https://github.com/01Dishapramanick.png?size=72" width="48" height="48" alt="Disha Pramanick avatar" /> | Disha Pramanick | pramanickdisha88@gmail.com | BCA | B.P. Poddar Institute of Management & Technology | Kolkata, West Bengal | [01Dishapramanick](https://github.com/01Dishapramanick) |
-| <img src="https://github.com/Moulikea.png?size=72" width="48" height="48" alt="Moulikea Murugesan avatar" /> | Moulikea Murugesan | moulikeamurugesan2004@gmail.com | MCA | M.Kumarasamy College of Engineering | Erode, Tamilnadu | [Moulikea](https://github.com/Moulikea) |
-| <img src="https://github.com/Yakaanil2006.png?size=72" width="48" height="48" alt="Anil Yaka avatar" /> | Anil Yaka | yakaanil2006@gmail.com | B.Tech CSE(AI&ML) | Anil Neerukonda Institute of Technology and Sciences | Visakhapatnam, Andhra Pradesh | [Yakaanil2006](https://github.com/Yakaanil2006) |
-| <img src="https://github.com/thanvikathanvi02-hub.png?size=72" width="48" height="48" alt="Tetali Thanvika avatar" /> | Tetali Thanvika | thanvikathanvi02@gmail.com | B.Tech IOT | Seshadri Rao Gudlavalleru Engineering College | Tanuku, Andhra Pradesh | [thanvikathanvi02-hub](https://github.com/thanvikathanvi02-hub) |
-| <img src="https://github.com/Rithika10-k.png?size=72" width="48" height="48" alt="Rithika avatar" /> | Rithika | rithikakmrd@gmail.com | B.Tech IT | E.G.S.Pillay Engineering College | Nagapattinam, Tamilnadu | [Rithika10-k](https://github.com/Rithika10-k) |
+| Avatar | Name | Course | College | Address | GitHub Username |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://github.com/Saurabhtbj1201.png?size=72" width="48" height="48" alt="Saurabh Kumar avatar" /> | Saurabh Kumar | BCA | Galgotias University | Greater Noida, UP | [Saurabhtbj1201](https://github.com/Saurabhtbj1201) |
+| <img src="https://github.com/Ashuzade.png?size=72" width="48" height="48" alt="Aishwarya Zade avatar" /> | Aishwarya Zade | BTech | LSPGCOE Ratnagiri | Gadchiroli, Maharashtra | [Ashuzade](https://github.com/Ashuzade) |
+| <img src="https://github.com/Pratyush562003.png?size=72" width="48" height="48" alt="Pratyush Sarkar avatar" /> | Pratyush Sarkar | B.Tech CSE | University of Engineering and Management | Kolkata, West Bengal | [Pratyush562003](https://github.com/Pratyush562003) |
+| <img src="https://github.com/Sanjivani0101.png?size=72" width="48" height="48" alt="Sanjivani Gurav avatar" /> | Sanjivani Gurav | Msc | Vivekanand College, Kolhapur | Pune, Maharashtra | [Sanjivani0101](https://github.com/Sanjivani0101) |
+| <img src="https://github.com/01Dishapramanick.png?size=72" width="48" height="48" alt="Disha Pramanick avatar" /> | Disha Pramanick | BCA | B.P. Poddar Institute of Management & Technology | Kolkata, West Bengal | [01Dishapramanick](https://github.com/01Dishapramanick) |
+| <img src="https://github.com/Moulikea.png?size=72" width="48" height="48" alt="Moulikea Murugesan avatar" /> | Moulikea Murugesan | MCA | M.Kumarasamy College of Engineering | Erode, Tamilnadu | [Moulikea](https://github.com/Moulikea) |
+| <img src="https://github.com/Yakaanil2006.png?size=72" width="48" height="48" alt="Anil Yaka avatar" /> | Anil Yaka | B.Tech CSE(AI&ML) | Anil Neerukonda Institute of Technology and Sciences | Visakhapatnam, Andhra Pradesh | [Yakaanil2006](https://github.com/Yakaanil2006) |
+| <img src="https://github.com/thanvikathanvi02-hub.png?size=72" width="48" height="48" alt="Tetali Thanvika avatar" /> | Tetali Thanvika | B.Tech IOT | Seshadri Rao Gudlavalleru Engineering College | Tanuku, Andhra Pradesh | [thanvikathanvi02-hub](https://github.com/thanvikathanvi02-hub) |
+| <img src="https://github.com/Rithika10-k.png?size=72" width="48" height="48" alt="Rithika avatar" /> | Rithika | B.Tech IT | E.G.S.Pillay Engineering College | Nagapattinam, Tamilnadu | [Rithika10-k](https://github.com/Rithika10-k) |
 <!-- CONTRIBUTORS:END -->
 
 ---

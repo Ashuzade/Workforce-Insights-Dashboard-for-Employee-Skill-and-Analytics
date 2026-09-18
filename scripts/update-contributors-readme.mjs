@@ -13,11 +13,10 @@ const endMarker = '<!-- CONTRIBUTORS:END -->';
 const sectionPattern = new RegExp(`${startMarker}[\\s\\S]*?${endMarker}`);
 
 const rows = [
-  '| Avatar | Name | Contact | Course | College | Address | GitHub Username |',
-  '| --- | --- | --- | --- | --- | --- | --- |',
+  '| Avatar | Name | Course | College | Address | GitHub Username |',
+  '| --- | --- | --- | --- | --- | --- |',
   ...contributors.map((contributor) => {
     const name = contributor.name ?? '';
-    const contact = contributor.contact ?? '';
     const course = contributor.course ?? '';
     const college = contributor.college ?? '';
     const address = contributor.address ?? '';
@@ -29,7 +28,7 @@ const rows = [
       ? `[${githubUsername}](https://github.com/${githubUsername})`
       : '';
 
-    return `| <img src="${avatarUrl}" width="48" height="48" alt="${name} avatar" /> | ${name} | ${contact} | ${course} | ${college} | ${address} | ${githubLink} |`;
+    return `| <img src="${avatarUrl}" width="48" height="48" alt="${name} avatar" /> | ${name} | ${course} | ${college} | ${address} | ${githubLink} |`;
   }),
 ];
 
